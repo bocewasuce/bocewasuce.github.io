@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bocewasuce.github.io/sitemap.xml
